@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Faiz Irshad</h1>
 <h3 align="center">Full-Stack Developer and Computer Science student at Stony Brook University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizsi" alt="faizsi" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Computer Networks, Data Visualization**
 
